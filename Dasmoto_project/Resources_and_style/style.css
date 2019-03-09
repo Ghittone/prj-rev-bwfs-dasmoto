@@ -1,0 +1,54 @@
+
+
+
+.text {position: absolute;
+       width: : auto;
+       height: auto;
+       margin:auto;
+       color: khaki;
+       font-size: 100px;
+       font-weight: bold;
+       text-align: center;
+       font-family: Helvetica;}
+
+img {margin-top: auto;
+    margin-bottom: auto;
+    width:auto;
+    height: auto;  }
+
+.goods_name{font-family: Helvetica;
+            font-size: 32px;
+            font-weight: bold;
+            color: white;
+            text-align: left;
+            background-color: white;
+            width: auto;
+            height: auto;
+            padding: 50px;
+
+            }
+#Bru {background-color: mediumspringgreen;
+      }
+
+#Fra {background-color:lightcoral;}
+
+#Pai {background-color: skyblue;}
+
+h3 { position:relative;
+     color:black;
+     vertical-align: top;
+     font-weight:bolder;
+    }
+
+.par .par2 .par3 {position:relative;
+      color:black;
+      vertical-align:top;
+      margin-bottom: 50px;}
+
+p {color: black;
+}
+
+strong { color: blue;
+        font-family: Helvetica;
+        font-weight: bold;
+        }
